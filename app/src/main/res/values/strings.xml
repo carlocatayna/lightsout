@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">catayna_exer3_lightsout</string>
+    <string name="moves">Moves:</string>
+    <string name="done">Done</string>
+    <string name="reset">Reset</string>
+    <string name="initial_move">0</string>
+    <string name="ent_nick">Enter name here</string>
+</resources>
